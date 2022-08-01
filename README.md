@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Memoakhndv02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html>
+<head>
+<p <h1> Axundzade Mehemmedaga cox melumat vermek sevmiren qisacasi en cox sosialda vaxt kecirdiyim ucun ferqli aktivitelerim, hobbilerim var fotograf olaraq davam etmeyi dusunurem daha cox oyrenmek ucun asagi link yerlesdirirem ora klikliyerek haqqimda daha cox melumat oyrene bilersiz</h1> </p>
 
-<!---
-Memoakhndv02/Memoakhndv02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p style="text-align:center;"><a href="https://www.facebook.com/memo.axndv">  facebook </a> </p> <br>
+<p style="text-align:center;"> <a href="https://instagram.com/memoakhndv?igshid=YmMyMTA2M2Y="> <button> instagram</button> </a> </p>
+
